@@ -1,0 +1,30 @@
+OMS website - TODO
+
+reduce to one image and text cycle DONE
+
+change colorscheme
+
+change tabs DONE
+
+build subpages: [eg]:
+  orchestra
+  choir
+  concerts
+  blog
+  contact us
+
+find out why the preview keeps showing hovers about the pixels and stuff
+
+find appropriate images:
+  ?date sensitive
+  
+write all the content
+  home
+  orchestra
+  choir
+  concerts
+  blog
+  contact us (inc map and mailto)
+  
+appropriate name on browser tabs
+  
