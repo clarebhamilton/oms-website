@@ -1,19 +1,32 @@
 OMS website - TODO
 
 reduce to one image and text cycle DONE
-
-change colorscheme
-
+reduce gap between picture and text DONE
+reduce height of cover image DONE
+change menu icon to the word "menu" DONE
+change text color in menu DONE
 change tabs DONE
+appropriate name on browser tabs DONE
 
-build subpages: [eg]:
+sizing of tab titles
+
+consider fonts
+
+consider colorscheme
+
+incorporate images
+
+attribute west lancs panorama https://www.flickr.com/photos/reggaethecat/24049009690/sizes/h/
+
+tab is highlighted after selection
+
+populate subpages: 
   orchestra
   choir
   concerts
   blog
   contact us
 
-find out why the preview keeps showing hovers about the pixels and stuff
 
 find appropriate images:
   ?date sensitive
@@ -26,5 +39,13 @@ write all the content
   blog
   contact us (inc map and mailto)
   
-appropriate name on browser tabs
+
+
+add Google maps and add to Google maps
+
+add reg charity number
+
+
+
+
   
