@@ -16,7 +16,7 @@ body {
     color: white;
 }
 .image-bg-fluid-height,
-.image-bg-fixed-height {
+.image-bg-fluid-height-home {
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -29,9 +29,9 @@ body {
     padding: 120px 0;
 }
 
-.image-bg-fixed-height {
-	background: url('http://lorempixel.com/1920/500/nature') no-repeat center center scroll;
-    height: 450px;
+.image-bg-fluid-height-home {
+    background: url('west-lancs-country.jpg') no-repeat center center scroll;
+    padding: 107px 0;
 }
 
 .img-center {

@@ -7,6 +7,10 @@ change menu icon to the word "menu" DONE
 change text color in menu DONE
 change tabs DONE
 appropriate name on browser tabs DONE
+attribute west lancs panorama https://www.flickr.com/photos/reggaethecat/24049009690/sizes/h/
+https://creativecommons.org/licenses/by/2.0/legalcode
+https://www.flickr.com/photos/reggaethecat/
+Joe Hayhurst Glass-Eye Photography http://www.theglasseye.co.uk/ DONE
 
 sizing of tab titles
 
@@ -15,8 +19,14 @@ consider fonts
 consider colorscheme
 
 incorporate images
+  home - DONE
+  blog
+  choir
+  concerts
+  contact
+  orchestra
 
-attribute west lancs panorama https://www.flickr.com/photos/reggaethecat/24049009690/sizes/h/
+
 
 tab is highlighted after selection
 
