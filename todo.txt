@@ -30,16 +30,9 @@ incorporate images
 
 tab is highlighted after selection
 
-populate subpages: 
-  orchestra
-  choir
-  concerts
-  blog
-  contact us
-
-
-find appropriate images:
-  ?date sensitive
+can we make the footer always be at the bottom if there is no scrolling?
+  
+  
   
 write all the content
   home
