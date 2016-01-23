@@ -4,8 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+html {
+    overflow-y:scroll;
+}
+
 body {
-    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    margin-top: 50px;
+    /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 .navbar-toggle {
@@ -15,8 +20,22 @@ body {
 .navbar-toggle:hover {
     color: white;
 }
+
+.navbar-inverse .navbar-nav>li>a.tab-selected {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand.tab-selected {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 14px;
+}
+
 .image-bg-fluid-height,
-.image-bg-fluid-height-home {
+.image-bg-fluid-height-home,
+.image-bg-fluid-height-contact {
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -25,7 +44,7 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('http://lorempixel.com/1920/500/nature') no-repeat center center scroll;
+    background: url('http://lorempixel.com/1920/500/nature') no-repeat center center scroll;
     padding: 120px 0;
 }
 
@@ -34,14 +53,18 @@ body {
     padding: 107px 0;
 }
 
+.image-bg-fluid-height-contact {
+    background: url('ormskirk_scene.jpg') no-repeat center center scroll;
+    padding: 107px 0;
+}
+
 .image-subpage {
     width: 100%;
-    height: 240px;
     padding: 15px 0;
 }
 
 .img-center {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 .section-heading {
@@ -61,12 +84,21 @@ footer {
     margin: 50px 0;
 }
 
+.small-footer-text {
+    font-size: 10px;
+}
+
+#map {
+    width: 500px;
+    height: 400px;
+    background-color: #CCC;
+}
+
 @media(max-width:768px) {
     section {
         padding-top: 25px;
         padding-bottom: 25px;
     }
-
     .section-heading {
         font-size: 2em;
     }

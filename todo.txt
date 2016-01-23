@@ -11,12 +11,13 @@ attribute west lancs panorama https://www.flickr.com/photos/reggaethecat/2404900
 https://creativecommons.org/licenses/by/2.0/legalcode
 https://www.flickr.com/photos/reggaethecat/
 Joe Hayhurst Glass-Eye Photography http://www.theglasseye.co.uk/ DONE
+sizing of tab titles DONE
+tab is highlighted after selection DONE
+investigate movement in navbar DONE
+add Google maps and add to Google maps DONE
+add reg charity number DONE
 
-sizing of tab titles
-
-consider fonts
-
-consider colorscheme
+consider colorscheme?
 
 incorporate images
   home - DONE
@@ -25,28 +26,28 @@ incorporate images
   concerts
   contact
   orchestra
-
-
-
-tab is highlighted after selection
-
-can we make the footer always be at the bottom if there is no scrolling?
   
+Make all a links from e.g. "choir.html" to "/choir.html"
+
+
+mobile view drop down not working on blog page
+
+
+NO can we make the footer always be at the bottom if there is no scrolling?
   
-  
-write all the content
+write all the content (AND CHECK FORMATTING)
   home
-  orchestra
-  choir
-  concerts
-  blog
-  contact us (inc map and mailto)
+  orchestra LINKS
+  choir LINKS
+  concerts LINKS
+  blog LINKS
+  contact us (inc map and mailto) LINKS FROM OTHER PAGES
   
+next concert link (in sectional pages?)
+
+number links
 
 
-add Google maps and add to Google maps
-
-add reg charity number
 
 
 
