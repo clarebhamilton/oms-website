@@ -4,10 +4,10 @@
     <title>OMS - Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://oms-website-clarebhamilton.c9usrs.io/oms/blogpage/</link>
-    <atom:link href="https://oms-website-clarebhamilton.c9usrs.io/oms/blogpage/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Jan 2016 20:51:04 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 20:51:04 +0000</lastBuildDate>
+    <link>http://ormskirkmusicsociety.org.uk/blogpage/</link>
+    <atom:link href="http://ormskirkmusicsociety.org.uk/blogpage/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Jan 2016 20:54:52 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 20:54:52 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 23 Jan 2016 21:19:51 +0000</pubDate>
-        <link>https://oms-website-clarebhamilton.c9usrs.io/oms/blogpage/jekyll/update/2016/01/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://oms-website-clarebhamilton.c9usrs.io/oms/blogpage/jekyll/update/2016/01/23/welcome-to-jekyll.html</guid>
+        <link>http://ormskirkmusicsociety.org.uk/blogpage/jekyll/update/2016/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ormskirkmusicsociety.org.uk/blogpage/jekyll/update/2016/01/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
