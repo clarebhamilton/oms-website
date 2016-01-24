@@ -80,6 +80,10 @@ body {
     margin: 30px 0;
 }
 
+.italic {
+    font-style: italic;
+}
+
 footer {
     margin: 50px 0;
 }

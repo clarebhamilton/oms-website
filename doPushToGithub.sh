@@ -4,7 +4,7 @@ if [ -z "$1" ]
   then
     echo "No commit message supplied.  Rerun as:"
     echo
-    echo "./saveToGitHub.sh \"my commit message\""
+    echo "./doPushToGithub.sh \"my commit message\""
     exit
 fi
 
