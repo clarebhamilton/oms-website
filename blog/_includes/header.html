@@ -9,25 +9,25 @@
                     <span class="sr-only">Toggle navigation</span>
                     Menu
                 </button>
-                <a class="navbar-brand" href="/index.html">Home</a>
+                <a class="navbar-brand" href="{{ "index.html " | prepend: site.mybaseurl }}">Home</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="/choir.html">Choir</a>
+                        <a href="{{ "choir.html " | prepend: site.mybaseurl }}">Choir</a>
                     </li>
                     <li>
-                        <a href="/orchestra.html">Orchestra</a>
+                        <a href="{{ "orchestra.html " | prepend: site.mybaseurl }}">Orchestra</a>
                     </li>
                     <li>
-                        <a href="/concerts.html">Concerts</a>
+                        <a href="{{ "concerts.html " | prepend: site.mybaseurl }}">Concerts</a>
                     </li>
                     <li>
-                        <a class="tab-selected" href="/blogpage/index.html">Blog</a>
+                        <a class="tab-selected" href="{{ "/index.html " | prepend: site.baseurl }}">Blog</a>
                     </li>
                     <li>
-                        <a href="/contact.html">Contacts & location</a>
+                        <a href="{{ "contact.html " | prepend: site.mybaseurl }}">Contacts & location</a>
                     </li>
                 </ul>
             </div>

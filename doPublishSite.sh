@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-jekyll build --source blog --destination ../blogpage --config _config.yml,_config.c9.yml
+jekyll build --source blog --destination ../blogpage
 
 
 #lftp command
