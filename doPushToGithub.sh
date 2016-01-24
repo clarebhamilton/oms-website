@@ -8,7 +8,7 @@ if [ -z "$1" ]
     exit
 fi
 
-jekyll build --source blog --destination ../blogpage --config blog/_config.yml,blog/_config.github.yml
+jekyll build --source blog --destination blogpage --config blog/_config.yml,blog/_config.github.yml
 
 git add --all
 git commit -m "$1"
