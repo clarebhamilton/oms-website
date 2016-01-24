@@ -58,6 +58,12 @@ body {
     padding: 107px 0;
 }
 
+.nice-box {
+    border: 1px darkgray solid;
+    border-radius: 15px;
+    height: 350px;
+}
+
 .image-subpage {
     width: 100%;
     padding: 15px 0;
