@@ -1,0 +1,5 @@
+# Settings unique to c9 dev environment
+
+# Site settings
+baseurl: "/blogpage" # the subpath of your site, e.g. /blog
+url: "https://oms-website-clarebhamilton.c9usrs.io" # the base hostname & protocol for your site

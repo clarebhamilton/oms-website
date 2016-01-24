@@ -1,0 +1,5 @@
+# Settings unique to github pages
+
+# Site settings
+baseurl: "/oms-website/blogpage" # the subpath of your site, e.g. /blog
+url: "https://clarebhamilton.github.io" # the base hostname & protocol for your site

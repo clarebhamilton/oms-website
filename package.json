@@ -1,0 +1,26 @@
+{
+  "name": "oms-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarebhamilton/oms-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarebhamilton/oms-website/issues"
+  },
+  "homepage": "https://github.com/clarebhamilton/oms-website#readme"
+}
