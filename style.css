@@ -15,22 +15,30 @@ body {
 
 .navbar-toggle {
     color: #9d9d9d;
+    font-size: 16px;
 }
 
 .navbar-toggle:hover {
     color: white;
+    font-size: 16px;
 }
 
 .navbar-inverse .navbar-nav>li>a.tab-selected {
     color: white;
+    font-size: 16px;
+}
+
+.navbar-nav {
+    font-size: 16px;
 }
 
 .navbar-inverse .navbar-brand.tab-selected {
     color: white;
+    font-size: 16px;
 }
 
 .navbar-brand {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .image-bg-fluid-height,

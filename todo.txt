@@ -21,11 +21,11 @@ consider colorscheme?
 
 incorporate images
   home - DONE
-  blog
-  choir
+  blog - NA
+  choir - DONE
   concerts
-  contact
-  orchestra
+  contact - NA
+  orchestra - NA
   
 Make all a links from e.g. "choir.html" to "/choir.html"
 
@@ -45,7 +45,7 @@ write all the content (AND CHECK FORMATTING)
   
 next concert link (in sectional pages?)
 
-number links
+phone number links
 
 
 
