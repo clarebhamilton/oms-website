@@ -69,8 +69,17 @@ body {
 .nice-box {
     border: 1px darkgray solid;
     border-radius: 15px;
-    height: 350px;
+    min-height: 350px;
+    margin-bottom: 15px;
 }
+
+.nice-box2 {
+    border: 1px darkgray solid;
+    border-radius: 15px;
+    min-height: 200px;
+    margin-top: 15px;
+}
+
 
 .image-subpage {
     width: 100%;
@@ -107,7 +116,6 @@ footer {
 }
 
 #map {
-    width: 500px;
     height: 400px;
     background-color: #CCC;
 }
