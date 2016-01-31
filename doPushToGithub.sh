@@ -14,4 +14,4 @@ git add --all
 git commit -m "$1"
 git push
 
-jekyll build --source blog --destination blogpage --config blog/_config.yml,blog/_config.c9.yml
+jekyll build --source blog --destination blogpage --config blog/_config.yml,blog/_config.c9./.yml
