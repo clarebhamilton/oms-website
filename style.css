@@ -58,6 +58,7 @@ body {
 
 .image-bg-fluid-height-home {
     background: url('west-lancs-country.jpg') no-repeat center center scroll;
+    background-size: cover;
     padding: 107px 0;
 }
 
