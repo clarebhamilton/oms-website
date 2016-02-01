@@ -6,10 +6,12 @@
 
 html {
     overflow-y:scroll;
+    font-size: 100%;
 }
 
 body {
     margin-top: 50px;
+    font-size: 100%;
     /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
@@ -81,6 +83,9 @@ body {
     margin-top: 15px;
 }
 
+.center-text-in-box {
+    
+}
 
 .image-subpage {
     width: 100%;
@@ -112,6 +117,8 @@ footer {
     margin: 50px 0;
 }
 
+
+
 .small-footer-text {
     font-size: 10px;
 }
@@ -128,5 +135,13 @@ footer {
     }
     .section-heading {
         font-size: 2em;
+    }
+    
+    .section-lead.go-italic-on-mobile {
+        font-style: italic;
+    }
+    
+    .section-lead {
+        font-size: 1.33em;
     }
 }
