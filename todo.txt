@@ -16,7 +16,6 @@ tab is highlighted after selection DONE
 investigate movement in navbar DONE
 add Google maps and add to Google maps DONE
 add reg charity number DONE
-
 incorporate images
   home - DONE
   blog - NA
@@ -24,10 +23,12 @@ incorporate images
   concerts
   contact - NA
   orchestra - NA
-
+Small text size on large screen - investigate font size in general DONE
 NO can we make the footer always be at the bottom if there is no scrolling?
 
-Small text size on large screen - investigate font size in general
+LEAVE Is first footer too big?
+
+
 Concerts.html - is heading wrong?
 Contacts.html - do get directions script?
 Indexing etc. on google
@@ -37,3 +38,9 @@ Indexing etc. on google
   
 mailserver?
 home and Menu on small screen not level
+
+blog styling in general
+  thumbnail on right
+  less text on homescreen
+  more padding around text on main blogpage
+  consider how best to present (inc effect on navbar)
