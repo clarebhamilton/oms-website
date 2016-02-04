@@ -10,7 +10,7 @@ image:
   alt: "The Musikverein, Vienna"
 ---
 
-So the orchestra is practising hard for the [Spring concert on 23 April 2016]({{site.url}}/concerts.html). 
+So the orchestra is practising hard for the [Spring concert on 23 April 2016]({{site.mybaseurl}}/concerts.html). 
 We might not be ready to trade venues with the Vienna Philharmonic
 yet but things are definitely starting to take shape. There's a string sectional rehearsal on tomorrow (Thursday 4 February) where we will
-do some work on the Rachmaninov Symphonic Dances. It's a tough play but as always with Rachmaninov, the rewards are enormous.
+do some work on the Rachmaninov _Symphonic Dances_. It's a tough play but as always with Rachmaninov, the rewards are enormous.

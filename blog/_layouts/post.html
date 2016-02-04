@@ -12,9 +12,9 @@ layout: default
   {% if page.image.filename %}
   <div>
     {% if page.image.alt %}
-    <img src="{{ site.url }}/assets/images/{{ page.image.filename }}" alt="{{ page.image.alt }}" />
+    <img src="{{ site.mybaseurl }}/assets/images/{{ page.image.filename }}" alt="{{ page.image.alt }}" />
     {% else %}
-    <img src="{{ site.url }}/assets/images/{{ page.image.filename }}" />
+    <img src="{{ site.mybaseurl }}/assets/images/{{ page.image.filename }}" />
     {% endif %}
   </div>
   {% endif %}
