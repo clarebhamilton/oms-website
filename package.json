@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prestart": "jekyll build --source blog --destination blogpage",
+    "prestart": "jekyll build --source blog_working_folder --destination public_html/blog",
     "start": "http-server -o"
   },
   "repository": {

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        
+        <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        
+          <div class="row">
+            <div class="col-xs-6">
+              <p>{{ post.excerpt }}</p>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6">
+              {% if post.image.filename %}
+                {% if post.image.alt %}
+                <img src="{{ site.mybaseurl }}/assets/images/{{ post.image.filename }}" alt="{{ post.image.alt }}" />
+                {% else %}
+                <img src="{{ site.mybaseurl }}/assets/images/{{ post.image.filename }}" />
+                {% endif %}
+              {% endif %}
+            </div>
+          </div>
+        
+        
+        <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OMS - Blog</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>https://clarebhamilton.github.io/oms-website/blog/</link>
+    <atom:link href="https://clarebhamilton.github.io/oms-website/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 Feb 2016 21:30:32 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2016 21:30:32 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Rehearsals underway</title>
+        <description>&lt;p&gt;So the orchestra is practising hard for the &lt;a href=&quot;/oms-website/concerts.html&quot;&gt;Spring concert on 23 April 2016&lt;/a&gt;. 
+We might not be ready to trade venues with the Vienna Philharmonic
+yet but things are definitely starting to take shape.&lt;/p&gt;
+
+&lt;p&gt;There’s a string sectional rehearsal on tomorrow (Thursday 4 February) where we will
+do some work on the Rachmaninov &lt;em&gt;Symphonic Dances&lt;/em&gt;. It’s a tough play but as always with Rachmaninov, the rewards are enormous.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Feb 2016 21:07:00 +0000</pubDate>
+        <link>https://clarebhamilton.github.io/oms-website/blog/rehearsals/2016/02/03/test.html</link>
+        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/blog/rehearsals/2016/02/03/test.html</guid>
+        
+        
+        <category>rehearsals</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to the new OMS website</title>
+        <description>&lt;p&gt;Hello and welcome to the new Ormskirk Music Society website. We hope you enjoy exploring our site.&lt;/p&gt;
+
+&lt;p&gt;If you have any comments or suggestions please contact our web team on &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#108;&amp;#097;&amp;#114;&amp;#101;&amp;#098;&amp;#104;&amp;#097;&amp;#109;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#110;&amp;#064;&amp;#104;&amp;#111;&amp;#116;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#099;&amp;#108;&amp;#097;&amp;#114;&amp;#101;&amp;#098;&amp;#104;&amp;#097;&amp;#109;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#110;&amp;#064;&amp;#104;&amp;#111;&amp;#116;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Jan 2016 21:19:51 +0000</pubDate>
+        <link>https://clarebhamilton.github.io/oms-website/blog/website/2016/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/blog/website/2016/01/23/welcome-to-jekyll.html</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
+    
+  </channel>
+</rss>

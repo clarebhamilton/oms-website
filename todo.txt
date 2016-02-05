@@ -42,5 +42,5 @@ home and Menu on small screen not level
 blog styling in general
   thumbnail on right
   less text on homescreen
-  more padding around text on main blogpage
+  more padding around text on main blog
   consider how best to present (inc effect on navbar)
