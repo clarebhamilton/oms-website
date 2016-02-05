@@ -4,15 +4,15 @@
     <title>OMS - Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://clarebhamilton.github.io/oms-website/blog/</link>
-    <atom:link href="https://clarebhamilton.github.io/oms-website/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Feb 2016 21:30:32 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Feb 2016 21:30:32 +0000</lastBuildDate>
+    <link>https://clarebhamilton.github.io/oms-website/public_html/blog/</link>
+    <atom:link href="https://clarebhamilton.github.io/oms-website/public_html/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 05 Feb 2016 21:34:30 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2016 21:34:30 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Rehearsals underway</title>
-        <description>&lt;p&gt;So the orchestra is practising hard for the &lt;a href=&quot;/oms-website/concerts.html&quot;&gt;Spring concert on 23 April 2016&lt;/a&gt;. 
+        <description>&lt;p&gt;So the orchestra is practising hard for the &lt;a href=&quot;/oms-website/public_html/concerts.html&quot;&gt;Spring concert on 23 April 2016&lt;/a&gt;. 
 We might not be ready to trade venues with the Vienna Philharmonic
 yet but things are definitely starting to take shape.&lt;/p&gt;
 
@@ -20,8 +20,8 @@ yet but things are definitely starting to take shape.&lt;/p&gt;
 do some work on the Rachmaninov &lt;em&gt;Symphonic Dances&lt;/em&gt;. It’s a tough play but as always with Rachmaninov, the rewards are enormous.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 21:07:00 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/blog/rehearsals/2016/02/03/test.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/blog/rehearsals/2016/02/03/test.html</guid>
+        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/rehearsals/2016/02/03/test.html</link>
+        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/rehearsals/2016/02/03/test.html</guid>
         
         
         <category>rehearsals</category>
@@ -36,8 +36,8 @@ do some work on the Rachmaninov &lt;em&gt;Symphonic Dances&lt;/em&gt;. It’s a 
 
 </description>
         <pubDate>Sat, 23 Jan 2016 21:19:51 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/blog/website/2016/01/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/blog/website/2016/01/23/welcome-to-jekyll.html</guid>
+        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/website/2016/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/website/2016/01/23/welcome-to-jekyll.html</guid>
         
         
         <category>website</category>
