@@ -25,6 +25,11 @@ incorporate images
   orchestra - NA
 Small text size on large screen - investigate font size in general DONE
 NO can we make the footer always be at the bottom if there is no scrolling?
+blog styling in general DONE
+  thumbnail on right
+  less text on homescreen
+  more padding around text on main blog
+  consider how best to present (inc effect on navbar)
 
 LEAVE Is first footer too big?
 
@@ -39,8 +44,9 @@ Indexing etc. on google
 mailserver?
 home and Menu on small screen not level
 
-blog styling in general
-  thumbnail on right
-  less text on homescreen
-  more padding around text on main blog
-  consider how best to present (inc effect on navbar)
+subpage image fill screen on small screen?
+
+padding around "nice box" class
+
+no read more on short blogs?
+
