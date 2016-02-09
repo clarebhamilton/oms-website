@@ -143,4 +143,10 @@ footer {
     .section-lead {
         font-size: 1.33em;
     }
+    
+    .nice-box,
+    .nice-box2 {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
