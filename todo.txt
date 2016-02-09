@@ -30,6 +30,7 @@ blog styling in general DONE
   less text on homescreen
   more padding around text on main blog
   consider how best to present (inc effect on navbar)
+margin around "nice box" class DONE (with media query)
 
 LEAVE Is first footer too big?
 
@@ -46,7 +47,10 @@ home and Menu on small screen not level
 
 subpage image fill screen on small screen?
 
-padding around "nice box" class
+blog picture too wide on mobile
+
 
 no read more on short blogs?
+
+minify and speed up where we can
 
