@@ -118,6 +118,10 @@ footer {
     font-size: 10px;
 }
 
+.blog-image {
+    max-width: 600px;
+}
+
 #map {
     height: 400px;
     background-color: #CCC;
