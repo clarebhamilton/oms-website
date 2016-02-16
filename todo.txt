@@ -31,7 +31,7 @@ blog styling in general DONE
   more padding around text on main blog
   consider how best to present (inc effect on navbar)
 margin around "nice box" class DONE (with media query)
-
+blog picture too wide on mobile DONE
 LEAVE Is first footer too big?
 
 
@@ -45,9 +45,9 @@ Indexing etc. on google
 mailserver?
 home and Menu on small screen not level
 
-subpage image fill screen on small screen?
+subpage image fill screen on small screen? DONE
 
-blog picture too wide on mobile
+
 
 
 no read more on short blogs?

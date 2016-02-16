@@ -149,4 +149,23 @@ footer {
         margin-left: 10px;
         margin-right: 10px;
     }
+    
+    .img-fill-mobile-screen {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .image-subpage {
+        padding: 0px;
+    }
+
+    .section-for-img-fill-mobile-screen {
+        padding-top: 9px;
+    }
+
+    .blog-image {
+        max-width: 100%;
+    }
+    
+    
 }
