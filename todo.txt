@@ -33,7 +33,7 @@ blog styling in general DONE
 margin around "nice box" class DONE (with media query)
 blog picture too wide on mobile DONE
 LEAVE Is first footer too big?
-
+subpage image fill screen on small screen? DONE
 
 Concerts.html - is heading wrong?
 Contacts.html - do get directions script?

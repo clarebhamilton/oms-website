@@ -8,8 +8,14 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
   
-    
-  {% if page.image.filename %}
+  
+  {% if page.youtube %}
+  <div class="videoWrapperWrapper">
+    <div class="videoWrapper">
+      <iframe width="560" height="315" src="{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  {% elsif page.image.filename %}
   <div>
     {% if page.image.alt %}
     <img class="blog-image" src="{{ site.mybaseurl }}/assets/images/{{ page.image.filename }}" alt="{{ page.image.alt }}" />
