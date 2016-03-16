@@ -53,4 +53,4 @@ subpage image fill screen on small screen? DONE
 no read more on short blogs?
 
 minify and speed up where we can
-
+cache busting
