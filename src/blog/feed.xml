@@ -4,10 +4,10 @@
     <title>OMS - Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://clarebhamilton.github.io/oms-website/public_html/blog/</link>
-    <atom:link href="https://clarebhamilton.github.io/oms-website/public_html/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2016 16:07:44 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 16:07:44 +0000</lastBuildDate>
+    <link>http://ormskirkmusicsociety.org.uk/blog/</link>
+    <atom:link href="http://ormskirkmusicsociety.org.uk/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Mar 2016 10:35:05 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2016 10:35:05 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -23,8 +23,8 @@ interested in this video. It shows
 the concertmaster of the orchestra (we would call him the leader of the orchestra in the UK) 
 giving a young violinist some constructive criticism about his performance of 
 a section from the first movement of Rachmaninov’s Symphonic Dances, which the 
-&lt;a href=&quot;/oms-website/public_html/orchestra.html&quot;&gt;orchestra of Ormskirk Music Society&lt;/a&gt; is playing 
-in our &lt;a href=&quot;/oms-website/public_html/diary.html&quot;&gt;concert&lt;/a&gt; on 23 April 2016.&lt;/p&gt;
+&lt;a href=&quot;/orchestra.html&quot;&gt;orchestra of Ormskirk Music Society&lt;/a&gt; is playing 
+in our &lt;a href=&quot;/diary.html&quot;&gt;concert&lt;/a&gt; on 23 April 2016.&lt;/p&gt;
 
 &lt;p&gt;The section in question is a very magical moment in the piece and is definitely 
 one of those passages we string players look forward to. Lots of passion, 
@@ -39,8 +39,8 @@ Maestro Kreisler right here in West Lancashire.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 08 Mar 2016 20:37:00 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/orchestra/2016/03/08/masterclass.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/orchestra/2016/03/08/masterclass.html</guid>
+        <link>http://ormskirkmusicsociety.org.uk/blog/orchestra/2016/03/08/masterclass.html</link>
+        <guid isPermaLink="true">http://ormskirkmusicsociety.org.uk/blog/orchestra/2016/03/08/masterclass.html</guid>
         
         
         <category>orchestra</category>
@@ -49,7 +49,7 @@ Maestro Kreisler right here in West Lancashire.&lt;/p&gt;
     
       <item>
         <title>Accompanist needed</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;/oms-website/public_html/choir.html&quot;&gt;choir&lt;/a&gt; of Ormskirk Music Society is looking for an accompanist to assist 
+        <description>&lt;p&gt;The &lt;a href=&quot;/choir.html&quot;&gt;choir&lt;/a&gt; of Ormskirk Music Society is looking for an accompanist to assist 
 the choral director with term time rehearsals (Fridays 7.30pm - 9.30pm) 
 and concerts (usually four per year).&lt;/p&gt;
 
@@ -69,8 +69,8 @@ or 01695 624253 if you would like more information about this opportunity.&lt;/p
 
 </description>
         <pubDate>Mon, 08 Feb 2016 20:37:00 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/choir/2016/02/08/accompanist.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/choir/2016/02/08/accompanist.html</guid>
+        <link>http://ormskirkmusicsociety.org.uk/blog/choir/2016/02/08/accompanist.html</link>
+        <guid isPermaLink="true">http://ormskirkmusicsociety.org.uk/blog/choir/2016/02/08/accompanist.html</guid>
         
         
         <category>choir</category>
@@ -79,7 +79,7 @@ or 01695 624253 if you would like more information about this opportunity.&lt;/p
     
       <item>
         <title>Rehearsals underway</title>
-        <description>&lt;p&gt;So the orchestra is practising hard for the &lt;a href=&quot;/oms-website/public_html/diary.html&quot;&gt;Spring concert on 23 April 2016&lt;/a&gt;. 
+        <description>&lt;p&gt;So the orchestra is practising hard for the &lt;a href=&quot;/diary.html&quot;&gt;Spring concert on 23 April 2016&lt;/a&gt;. 
 We might not be ready to trade venues with the Vienna Philharmonic
 yet but things are definitely starting to take shape.&lt;/p&gt;
 
@@ -87,8 +87,8 @@ yet but things are definitely starting to take shape.&lt;/p&gt;
 do some work on the Rachmaninov &lt;em&gt;Symphonic Dances&lt;/em&gt;. It’s a tough play but as always with Rachmaninov, the rewards are enormous.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 21:07:00 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/rehearsals/2016/02/03/test.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/rehearsals/2016/02/03/test.html</guid>
+        <link>http://ormskirkmusicsociety.org.uk/blog/rehearsals/2016/02/03/test.html</link>
+        <guid isPermaLink="true">http://ormskirkmusicsociety.org.uk/blog/rehearsals/2016/02/03/test.html</guid>
         
         
         <category>rehearsals</category>
@@ -103,8 +103,8 @@ do some work on the Rachmaninov &lt;em&gt;Symphonic Dances&lt;/em&gt;. It’s a 
 
 </description>
         <pubDate>Sat, 23 Jan 2016 21:19:51 +0000</pubDate>
-        <link>https://clarebhamilton.github.io/oms-website/public_html/blog/website/2016/01/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://clarebhamilton.github.io/oms-website/public_html/blog/website/2016/01/23/welcome-to-jekyll.html</guid>
+        <link>http://ormskirkmusicsociety.org.uk/blog/website/2016/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ormskirkmusicsociety.org.uk/blog/website/2016/01/23/welcome-to-jekyll.html</guid>
         
         
         <category>website</category>
