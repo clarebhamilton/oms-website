@@ -1,5 +1,0 @@
-{
-   "default": ["clean", "copy:default","uncss","cssmin"],
-   "dev": ["clean", "copy:default", "uncss", "cssmin", "strip_code", "uglify", "processhtml", "copy:dev", "cacheBust"],
-   "rest" : ["strip_code", "uglify", "processhtml", "cacheBust"]
-}

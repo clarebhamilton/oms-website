@@ -13,11 +13,19 @@
 
     <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
 
+    <style>
+        .image-bg-fluid-height-home {
+            background: url('assets/images/west-lancs-country.jpg') no-repeat center center scroll;
+        }
+    </style>
+    
     <!-- Bootstrap Core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="style.css" rel="stylesheet">
+
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -82,7 +90,7 @@
                     <h1 class="section-heading">Ormskirk Music Society</h1>
                     <p class="lead section-lead go-italic-on-mobile">Friendly, dedicated musicians in the heart of West Lancashire</p>
                     <p class="section-paragraph">The Society is made up of a <a href="choir.html">choir</a> and an <a href="orchestra.html">orchestra</a>, which perform a truly diverse range of music across five <a href="diary.html">concerts</a> each year.</p>
-                    <p class="section-paragraph">Both the choir and the orchestra are on the lookout for new members. We don't hold auditions and encourage singers and players to come along to one of our rehearsals to give us a try. For more information please click <a href="choir.html">here</a> for the choir and <a href="orchestra.html">here</a> for the orchestra.</p>
+                    <p class="section-paragraph">Both the choir and the orchestra are on the lookout for new members. We don't hold auditions and encourage singers and players to come along to one of our rehearsals to give us a try. For more information please click <a href="choir.html">here</a>                        for the choir and <a href="orchestra.html">here</a> for the orchestra.</p>
                     <p class="section-paragraph">For details of our upcoming concerts and information about booking tickets, click <a href="diary.html">here</a>.</p>
                 </div>
             </div>
@@ -112,20 +120,23 @@
         <!-- /.container -->
     </footer>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
     <!-- Bootstrap Core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap-no-jquery.min.js"></script>
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-73564505-1', 'auto');
-      ga('send', 'pageview');
-    
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-73564505-1', 'auto');
+        ga('send', 'pageview');
     </script>
 
 </body>
