@@ -241,6 +241,16 @@ footer {
   }
 }
 
+.topbar {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .topbar{
+      display: block;  
+    }
+}
+
 /* Sidebar navigation */
 .nav-sidebar {
   margin-right: -21px; /* 20px padding + 1px border */

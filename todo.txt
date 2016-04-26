@@ -34,23 +34,22 @@ margin around "nice box" class DONE (with media query)
 blog picture too wide on mobile DONE
 LEAVE Is first footer too big?
 subpage image fill screen on small screen? DONE
-
-Concerts.html - is heading wrong?
-Contacts.html - do get directions script?
-Indexing etc. on google
-  - webmaster tools
-  - google analytics
-  - add orchestra to google maps
-  
-mailserver?
-home and Menu on small screen not level
-
 subpage image fill screen on small screen? DONE
 
 
 
+Contacts.html - do get directions script?
+
+mailserver?
 
 no read more on short blogs?
 
-minify and speed up where we can
 cache busting
+
+complete rest of members' area (build sub- todo list)
+
+ticket reservation form
+
+update poster location page
+
+
