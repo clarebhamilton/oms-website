@@ -145,6 +145,10 @@ footer {
 	height: 100%;
 }
 
+.poster-done {
+       color: #4CAF50;
+   }  
+
 @media(max-width:768px) {
     section {
         padding-top: 25px;
@@ -184,6 +188,7 @@ footer {
     .blog-image {
         max-width: 100%;
     }
+  
     
     
 }
