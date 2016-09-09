@@ -148,6 +148,11 @@ footer {
 .poster-done {
        color: #4CAF50;
    }  
+   
+.strong-red {
+    color:  red;
+	font-weight: bold;
+}
 
 @media(max-width:768px) {
     section {
