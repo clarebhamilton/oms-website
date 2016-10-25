@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Next concert less than 4 weeks away"
+date:   2016-10-25 20:00:00 +0000
+categories: orchestra
+youtube: 
+image: 
+  filename: "Beethoven.jpg"
+  credit:
+  creditlink:
+  alt: Ludwig van Beethoven
+---
+
+It's not long now until our Autumn concert for choir and orchestra. The programme is going to be amazing: 
+Beethoven's Symphony No 7, Dvorak's _Romance_ for Violin and Orchestra, Mendelssohn's _Hebrides Overture_, Handel's _Zadok the Priest_ and 
+Bruckner's _Ave Maria_. In the Dvorak, our leader, Claire Roberts, will be playing the violin solo.
+
+For tickets and any further information call Clare on 01925 221301 or email [clarebhamilton@hotmail.com](mailto: clarebhamilton@hotmail.com)
+
