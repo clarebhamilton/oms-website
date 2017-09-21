@@ -16,10 +16,10 @@ Rehearsals for both choir and orchestra start this week in preparation for our 5
 As always, we are looking for new players and singers, especially strings, to join us for this very special season. Just get in touch or come along to one of our open rehearsals, running every week in September.
 
 
-##Orchestra (starting 7 September)
+####Orchestra (starting 7 September)
 Thursdays at 7.45pm at Ormskirk School, Wigan Road, Ormskirk, L39 2AT
 Contact Clare by email [clarebhamilton@hotmail.com](clarebhamilton@hotmail.com) or call 07906 129393
 
-##Choir (starting 8 September)
+####Choir (starting 8 September)
 Fridays at 7.30pm at Ormskirk School, Wigan Road, Ormskirk, L39 2AT
 Contact Diane by email [omschoir.sec@gmail.com](omschoir.sec@gmail.com) or call 01695 624253
